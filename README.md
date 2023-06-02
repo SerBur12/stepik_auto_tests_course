@@ -1,2 +1,1 @@
-# stepik_auto_tests_course
-Homework Selenium course
+https://stepik.org/course/575
